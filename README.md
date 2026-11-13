@@ -41,6 +41,9 @@ Engineering world, handles large amounts of data safely.
 > The pinned local stack, health checks, backup procedure, and PostgreSQL
 > rollback steps introduced here are documented in
 > [`docs/local-operations.md`](docs/local-operations.md).
+> Supported GitHub and Microsoft Copilot integrations and their approval
+> boundaries are documented in
+> [`docs/copilot-integrations.md`](docs/copilot-integrations.md).
 
 ### Cloning the Repository
 
